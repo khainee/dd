@@ -1,1 +1,1 @@
-FROM docker.io/khainezayye/rclone:latest
+FROM docker.io/khainezayye/rclone
